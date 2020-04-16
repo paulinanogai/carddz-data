@@ -16,5 +16,347 @@
     "video": "https://www.youtube.com/embed/8A4FVGFA7dI",
     "word": "sophomore",
     "wordOfTheDay": "1"
+  },
+  {
+    "id": "2",
+    "audio": "yolk.mp3",
+    "description": {
+      "ua": "яєчний жовток",
+      "ru": "яичный желток"
+    },
+    "img": "yolk.png",
+    "letter": "y",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/kUFa1K93xAE",
+    "word": "yolk",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "3",
+    "audio": "valor.mp3",
+    "description": {
+      "ua": "хоробрість, відвага",
+      "ru": "доблесть, отвага"
+    },
+    "img": "",
+    "letter": "v",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/QgsFwnG5Q4Y",
+    "word": "valor",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "4",
+    "audio": "long.mp3",
+    "description": {
+      "ua": "<span>в залежності від контексту може означати:</span><br><span>- довгий</span><br><span>- довго</span><br><span>- жадати</span><br>",
+      "ru": "<span>в зависимости от контекста может означать:</span><br><span>- длинный</span><br><span>- долго</span><br><span>- жаждать</span><br>"
+    },
+    "img": "",
+    "letter": "l",
+    "partOfSpeech": {
+      "en": "adjective, verb",
+      "ua": "прикметник, дієслово",
+      "ru": "прилагательное, глагол"
+    },
+    "video": "https://www.youtube.com/embed/tupg1GvMu5o",
+    "word": "long",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "5",
+    "audio": "drowsiness.mp3",
+    "description": {
+      "ua": "сонливість, сонний стан",
+      "ru": "сонливость, сонное состояние"
+    },
+    "img": "",
+    "letter": "d",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/1JhrW1AqJPw",
+    "word": "drowsiness",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "6",
+    "audio": "pathetic.mp3",
+    "description": {
+      "ua": "жалюгідний, жалісний",
+      "ru": "жалкий, жалостный"
+    },
+    "img": "",
+    "letter": "p",
+    "partOfSpeech": {
+      "en": "adjective",
+      "ua": "прикметник",
+      "ru": "прилагательное"
+    },
+    "video": "https://www.youtube.com/embed/jz4eL8x1PXo",
+    "word": "pathetic",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "7",
+    "audio": "sick.mp3",
+    "description": {
+      "ua": "бути хворим",
+      "ru": "быть больным"
+    },
+    "img": "",
+    "letter": "s",
+    "partOfSpeech": {
+      "en": "adjective",
+      "ua": "прикметник",
+      "ru": "прилагательное"
+    },
+    "video": "https://www.youtube.com/embed/9nAAldjMT9Q",
+    "word": "sick",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "8",
+    "audio": "vocal_cords.mp3",
+    "description": {
+      "ua": "голосові зв'язки",
+      "ru": "голосовые связки"
+    },
+    "img": "",
+    "letter": "v",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/4ZMD17fRW70",
+    "word": "vocal cords",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "9",
+    "audio": "about_time.mp3",
+    "description": {
+      "ua": "вчасно, доречно",
+      "ru": "вовремя, пора бы уже"
+    },
+    "img": "",
+    "letter": "a",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/AnIcwBjDoVM",
+    "word": "about time",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "10",
+    "audio": "conflate.mp3",
+    "description": {
+      "ua": "об'єднувати",
+      "ru": "объединять"
+    },
+    "img": "",
+    "letter": "c",
+    "partOfSpeech": {
+      "en": "verb",
+      "ua": "дієслово",
+      "ru": "глагол"
+    },
+    "video": "https://www.youtube.com/embed/CosdozVHcO4",
+    "word": "conflate",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "11",
+    "audio": "comfort.mp3",
+    "description": {
+      "ua": "втішати, заспокоювати",
+      "ru": "утешать, успокаивать"
+    },
+    "img": "",
+    "letter": "c",
+    "partOfSpeech": {
+      "en": "verb",
+      "ua": "дієслово",
+      "ru": "глагол"
+    },
+    "video": "https://www.youtube.com/embed/J9RT9lQV5KY",
+    "word": "comfort",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "12",
+    "audio": "reflection.mp3",
+    "description": {
+      "ua": "в залежності від контексту може означати: відображення, результат (видимий), глибоке міркування",
+      "ru": "в зависимости от контекста может означать: отражение, результат (видимый), глубокое размышление"
+    },
+    "img": "reflection.png",
+    "letter": "r",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/7Gkv3K3A3pc",
+    "word": "reflection",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "13",
+    "audio": "don_t_hold_your_breath.mp3",
+    "description": {
+      "ua": "можеш навіть не сподіватися",
+      "ru": "можешь даже не надеяться"
+    },
+    "img": "don_t_hold_your_breath.png",
+    "letter": "d",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/3GMpCoo3w3A",
+    "word": "don't hold your breath",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "14",
+    "audio": "out_of_spite.mp3",
+    "description": {
+      "ua": "з шкідливості, на зло",
+      "ru": "из вредности, на зло"
+    },
+    "img": "",
+    "letter": "o",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/a756p8irM08",
+    "word": "out of spite",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "15",
+    "audio": "appraisal.mp3",
+    "description": {
+      "ua": "оцінка вартості",
+      "ru": "оценка стоимости"
+    },
+    "img": "",
+    "letter": "a",
+    "partOfSpeech": {
+      "en": "noun",
+      "ua": "іменник",
+      "ru": "существительное"
+    },
+    "video": "https://www.youtube.com/embed/YNleXB_tz6Y",
+    "word": "appraisal",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "16",
+    "audio": "as_often_as_not.mp3",
+    "description": {
+      "ua": "найчастіше, в більшості випадків",
+      "ru": "чаще всего, в большинстве случаев"
+    },
+    "img": "",
+    "letter": "a",
+    "partOfSpeech": {
+      "en": "idiom",
+      "ua": "ідіома",
+      "ru": "идиома"
+    },
+    "video": "https://www.youtube.com/embed/motVzx6oZhA",
+    "word": "as often as not",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "17",
+    "audio": "put_at_risk.mp3",
+    "description": {
+      "ua": "піддавати ризику",
+      "ru": "подвергать риску"
+    },
+    "img": "",
+    "letter": "p",
+    "partOfSpeech": {
+      "en": "verb",
+      "ua": "дієслово",
+      "ru": "глагол"
+    },
+    "video": "https://www.youtube.com/embed/1qyTZOD6ubs",
+    "word": "put smb/sth at risk",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "18",
+    "audio": "beware.mp3",
+    "description": {
+      "ua": "остерігатися чогось",
+      "ru": "остерегаться чего-то"
+    },
+    "img": "",
+    "letter": "b",
+    "partOfSpeech": {
+      "en": "verb",
+      "ua": "дієслово",
+      "ru": "глагол"
+    },
+    "video": "https://www.youtube.com/embed/VARVGXMkldk",
+    "word": "beware of sth",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "19",
+    "audio": "however.mp3",
+    "description": {
+      "ua": "проте, однак",
+      "ru": "однако"
+    },
+    "img": "",
+    "letter": "h",
+    "partOfSpeech": {
+      "en": "adverb",
+      "ua": "прислівник",
+      "ru": "наречие"
+    },
+    "video": "https://www.youtube.com/embed/DP2sTZrTvi4",
+    "word": "however",
+    "wordOfTheDay": "0"
+  },
+  {
+    "id": "20",
+    "audio": "ambiguous.mp3",
+    "description": {
+      "ua": "неоднозначний, нечіткий, обобічний",
+      "ru": "двусмысленный, неопределенный, сомнительный"
+    },
+    "img": "",
+    "letter": "a",
+    "partOfSpeech": {
+      "en": "adjective",
+      "ua": "прикметник",
+      "ru": "прилагательное"
+    },
+    "video": "https://www.youtube.com/embed/XasT00Ra79Q",
+    "word": "ambiguous",
+    "wordOfTheDay": "0"
   }
 ]
