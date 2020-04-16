@@ -16,23 +16,5 @@
     "video": "https://www.youtube.com/embed/8A4FVGFA7dI",
     "word": "sophomore",
     "wordOfTheDay": "1"
-  },
-  {
-    "id": "2",
-    "audio": "yolk.mp3",
-    "description": {
-      "ua": "яєчний жовток",
-      "ru": "яичный желток"
-    },
-    "img": "yolk.png",
-    "letter": "y",
-    "partOfSpeech": {
-      "en": "noun",
-      "ua": "іменник",
-      "ru": "существительное"
-    },
-    "video": "https://www.youtube.com/embed/kUFa1K93xAE",
-    "word": "yolk",
-    "wordOfTheDay": "0"
   }
 ]
