@@ -340,23 +340,5 @@
     "video": "https://www.youtube.com/embed/DP2sTZrTvi4",
     "word": "however",
     "wordOfTheDay": "0"
-  },
-  {
-    "id": "20",
-    "audio": "ambiguous.mp3",
-    "description": {
-      "ua": "неоднозначний, нечіткий, обобічний",
-      "ru": "двусмысленный, неопределенный, сомнительный"
-    },
-    "img": "",
-    "letter": "a",
-    "partOfSpeech": {
-      "en": "adjective",
-      "ua": "прикметник",
-      "ru": "прилагательное"
-    },
-    "video": "https://www.youtube.com/embed/XasT00Ra79Q",
-    "word": "ambiguous",
-    "wordOfTheDay": "0"
   }
 ]
