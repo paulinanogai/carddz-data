@@ -1,6 +1,6 @@
 [
    {
-    "id": "1",
+    "id": 1,
     "audio": "sophomore.mp3",
     "description": {
       "ua": "учень старшої школи або студент 2-го курсу",
@@ -15,10 +15,10 @@
     },
     "video": "https://www.youtube.com/embed/8A4FVGFA7dI",
     "word": "sophomore",
-    "wordOfTheDay": "1"
+    "wordOfTheDay": 1
   },
   {
-    "id": "2",
+    "id": 2,
     "audio": "yolk.mp3",
     "description": {
       "ua": "яєчний жовток",
@@ -33,10 +33,10 @@
     },
     "video": "https://www.youtube.com/embed/kUFa1K93xAE",
     "word": "yolk",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "3",
+    "id": 3,
     "audio": "valor.mp3",
     "description": {
       "ua": "хоробрість, відвага",
@@ -51,10 +51,10 @@
     },
     "video": "https://www.youtube.com/embed/QgsFwnG5Q4Y",
     "word": "valor",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "4",
+    "id": 4,
     "audio": "long.mp3",
     "description": {
       "ua": "<span>в залежності від контексту може означати:</span><br><span>- довгий</span><br><span>- довго</span><br><span>- жадати</span><br>",
@@ -69,10 +69,10 @@
     },
     "video": "https://www.youtube.com/embed/tupg1GvMu5o",
     "word": "long",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "5",
+    "id": 5,
     "audio": "drowsiness.mp3",
     "description": {
       "ua": "сонливість, сонний стан",
@@ -87,10 +87,10 @@
     },
     "video": "https://www.youtube.com/embed/1JhrW1AqJPw",
     "word": "drowsiness",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "6",
+    "id": 6,
     "audio": "pathetic.mp3",
     "description": {
       "ua": "жалюгідний, жалісний",
@@ -105,10 +105,10 @@
     },
     "video": "https://www.youtube.com/embed/jz4eL8x1PXo",
     "word": "pathetic",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "7",
+    "id": 7,
     "audio": "sick.mp3",
     "description": {
       "ua": "бути хворим",
@@ -123,10 +123,10 @@
     },
     "video": "https://www.youtube.com/embed/9nAAldjMT9Q",
     "word": "sick",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "8",
+    "id": 8,
     "audio": "vocal_cords.mp3",
     "description": {
       "ua": "голосові зв'язки",
@@ -141,10 +141,10 @@
     },
     "video": "https://www.youtube.com/embed/4ZMD17fRW70",
     "word": "vocal cords",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "9",
+    "id": 9,
     "audio": "about_time.mp3",
     "description": {
       "ua": "вчасно, доречно",
@@ -159,10 +159,10 @@
     },
     "video": "https://www.youtube.com/embed/AnIcwBjDoVM",
     "word": "about time",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "10",
+    "id": 10,
     "audio": "conflate.mp3",
     "description": {
       "ua": "об'єднувати",
@@ -177,10 +177,10 @@
     },
     "video": "https://www.youtube.com/embed/CosdozVHcO4",
     "word": "conflate",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "11",
+    "id": 11,
     "audio": "comfort.mp3",
     "description": {
       "ua": "втішати, заспокоювати",
@@ -195,10 +195,10 @@
     },
     "video": "https://www.youtube.com/embed/J9RT9lQV5KY",
     "word": "comfort",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "12",
+    "id": 12,
     "audio": "reflection.mp3",
     "description": {
       "ua": "в залежності від контексту може означати: відображення, результат (видимий), глибоке міркування",
@@ -213,10 +213,10 @@
     },
     "video": "https://www.youtube.com/embed/7Gkv3K3A3pc",
     "word": "reflection",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "13",
+    "id": 13,
     "audio": "don_t_hold_your_breath.mp3",
     "description": {
       "ua": "можеш навіть не сподіватися",
@@ -231,10 +231,10 @@
     },
     "video": "https://www.youtube.com/embed/3GMpCoo3w3A",
     "word": "don't hold your breath",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "14",
+    "id": 14,
     "audio": "out_of_spite.mp3",
     "description": {
       "ua": "з шкідливості, на зло",
@@ -249,10 +249,10 @@
     },
     "video": "https://www.youtube.com/embed/a756p8irM08",
     "word": "out of spite",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "15",
+    "id": 15,
     "audio": "appraisal.mp3",
     "description": {
       "ua": "оцінка вартості",
@@ -267,10 +267,10 @@
     },
     "video": "https://www.youtube.com/embed/YNleXB_tz6Y",
     "word": "appraisal",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "16",
+    "id": 16,
     "audio": "as_often_as_not.mp3",
     "description": {
       "ua": "найчастіше, в більшості випадків",
@@ -285,10 +285,10 @@
     },
     "video": "https://www.youtube.com/embed/motVzx6oZhA",
     "word": "as often as not",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "17",
+    "id": 17,
     "audio": "put_at_risk.mp3",
     "description": {
       "ua": "піддавати ризику",
@@ -303,10 +303,10 @@
     },
     "video": "https://www.youtube.com/embed/1qyTZOD6ubs",
     "word": "put smb/sth at risk",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "18",
+    "id": 18,
     "audio": "beware.mp3",
     "description": {
       "ua": "остерігатися чогось",
@@ -321,10 +321,10 @@
     },
     "video": "https://www.youtube.com/embed/VARVGXMkldk",
     "word": "beware of sth",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "19",
+    "id": 19,
     "audio": "however.mp3",
     "description": {
       "ua": "проте, однак",
@@ -339,10 +339,10 @@
     },
     "video": "https://www.youtube.com/embed/DP2sTZrTvi4",
     "word": "however",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   },
   {
-    "id": "20",
+    "id": 20,
     "audio": "ambiguous.mp3",
     "description": {
       "ua": "неоднозначний, нечіткий, обобічний",
@@ -357,6 +357,6 @@
     },
     "video": "https://www.youtube.com/embed/XasT00Ra79Q",
     "word": "ambiguous",
-    "wordOfTheDay": "0"
+    "wordOfTheDay": 0
   }
 ]
