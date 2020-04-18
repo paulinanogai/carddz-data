@@ -358,41 +358,5 @@
     "video": "https://www.youtube.com/embed/XasT00Ra79Q",
     "word": "ambiguous",
     "wordOfTheDay": 0
-  },
-  {
-    "id": 21,
-    "audio": "ambiguous.mp3",
-    "description": {
-      "ua": "неоднозначний, нечіткий, обобічний",
-      "ru": "двусмысленный, неопределенный, сомнительный"
-    },
-    "img": "",
-    "letter": "a",
-    "partOfSpeech": {
-      "en": "adjective",
-      "ua": "прикметник",
-      "ru": "прилагательное"
-    },
-    "video": "https://www.youtube.com/embed/XasT00Ra79Q",
-    "word": "ambiguous",
-    "wordOfTheDay": 0
-  },
-  {
-    "id": 22,
-    "audio": "ambiguous.mp3",
-    "description": {
-      "ua": "неоднозначний, нечіткий, обобічний",
-      "ru": "двусмысленный, неопределенный, сомнительный"
-    },
-    "img": "",
-    "letter": "a",
-    "partOfSpeech": {
-      "en": "adjective",
-      "ua": "прикметник",
-      "ru": "прилагательное"
-    },
-    "video": "https://www.youtube.com/embed/XasT00Ra79Q",
-    "word": "ambiguous",
-    "wordOfTheDay": 0
   }
 ]
